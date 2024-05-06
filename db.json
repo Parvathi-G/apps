@@ -1,0 +1,197 @@
+{
+  "usersdata": [
+    {
+      "username": "hello",
+      "email": "hello@gmail.com",
+      "newPassword": "852147963",
+      "id": "3568"
+    },
+    {
+      "username": "hiall",
+      "email": "hiall@gmail.com",
+      "newPassword": "852147963",
+      "id": "105b"
+    },
+    {
+      "username": "good",
+      "email": "good@gmail.com",
+      "newPassword": "987123456",
+      "id": "3ba1"
+    },
+    {
+      "username": "parvathi",
+      "email": "parvathi@gmail.com",
+      "newPassword": "1234567890",
+      "id": "adc5"
+    },
+    {
+      "id": "d911",
+      "username": "dummy",
+      "email": "dummy@gmail.com",
+      "password": "741852963"
+    },
+    {
+      "username": "davidjohh",
+      "email": "davidss@gmail.com",
+      "newPassword": "45692317",
+      "id": "a263"
+    },
+    {
+      "id": "b0c8",
+      "username": "dany",
+      "email": "dany@gmail.com",
+      "password": "1234567890"
+    },
+    {
+      "id": "79fa",
+      "username": "sachin",
+      "email": "sachin@gmail.com",
+      "password": "741852963"
+    },
+    {
+      "id": "b789",
+      "username": "sachin",
+      "email": "sachin@gmail.com",
+      "password": "789456123"
+    },
+    {
+      "id": "5ae8",
+      "username": "sachin",
+      "email": "sachin@gmail.com",
+      "password": "789456123"
+    },
+    {
+      "id": "39db",
+      "username": "doodle",
+      "email": "doodle@gmail.com",
+      "password": "1234567890"
+    },
+    {
+      "username": "ranga",
+      "email": "ranga@gmail.com",
+      "newPassword": "987654321",
+      "id": "4253"
+    },
+    {
+      "id": "e433",
+      "username": "donna",
+      "email": "donna@gmail.com",
+      "password": "1122334455"
+    },
+    {
+      "id": "a1b1",
+      "username": "sona",
+      "email": "sona@gmail.com",
+      "password": "987654321"
+    },
+    {
+      "id": "2cce",
+      "username": "sundar",
+      "email": "sundar@gmail.com",
+      "password": "9947881032"
+    },
+    {
+      "id": "9b11",
+      "username": "arun",
+      "email": "arun@gmail.com",
+      "password": "arun@1011"
+    },
+    {
+      "username": "nirvedh",
+      "email": "nirvedhsarath@gmail.com",
+      "id": "d247"
+    },
+    {
+      "id": "08d3",
+      "username": "sandeep",
+      "email": "sandeep@gmail.com",
+      "password": "741852963"
+    },
+    {
+      "id": "fbbc",
+      "username": "sandeep",
+      "email": "sandeep@gmail.com",
+      "password": "741852963"
+    },
+    {
+      "id": "c679",
+      "username": "henna",
+      "email": "henna@gmail.com",
+      "password": "789654123"
+    },
+    {
+      "id": "fbb1",
+      "username": "sindu",
+      "email": "sindu@gmail.com",
+      "password": "0000000000"
+    },
+    {
+      "id": "2a43",
+      "username": "dummy",
+      "email": "dummy@gmail.com",
+      "password": "112233445566"
+    },
+    {
+      "id": "55d0",
+      "username": "uyfgugg",
+      "email": "nirvedhsarath@gmail.com",
+      "password": "7+8+++8+9+8+98"
+    },
+    {
+      "username": "Appu",
+      "email": "appu@gmail.com",
+      "newPassword": "55678901",
+      "id": "eefb"
+    },
+    {
+      "id": "d9f2",
+      "username": "kannan",
+      "email": "kannan@gmail.com",
+      "password": "Kannan@1011"
+    },
+    {
+      "id": "ba81",
+      "username": "kannappi",
+      "email": "kannappi@gmail.com",
+      "password": "kannappi@10111K"
+    },
+    {
+      "id": "e263",
+      "username": "bgfhgh",
+      "email": "fjhkh@gmail.com",
+      "password": "Ajgyuruyg@1888"
+    },
+    {
+      "username": "hellosss",
+      "email": "helloss@gmail.com",
+      "password": "Sara@1011",
+      "id": "9fc6"
+    }
+  ],
+  "Task": [
+    {
+      "id": "3471",
+      "title": "hjhj",
+      "description": "hfjghjghk",
+      "dueDate": "2024-05-21",
+      "priority": "low",
+      "status": "completed"
+    },
+    {
+      "id": "79e7",
+      "title": "hjhjjk",
+      "description": "jhjhjhj",
+      "dueDate": "2024-05-22",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "id": "d36c",
+      "title": "ghghfg",
+      "description": "hfghfg",
+      "dueDate": "2024-05-21",
+      "priority": "medium",
+      "status": "completed"
+    }
+  ]
+}
