@@ -27,7 +27,7 @@ export class SideNavComponent {
   this.router.navigate(['dashboard']);
  
  }
- OnOut(){
+ OnOut(dsfghgj){
   
 
   this.router.navigate(['login'])
